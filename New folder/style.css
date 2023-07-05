@@ -1,0 +1,13 @@
+
+.text1{
+    text-decoration: underline;
+}
+.text2{
+    text-decoration: overline;
+}
+.text3{
+    text-decoration: line-through;
+}
+.text4{
+    text-decoration: underline wavy gray;
+}
