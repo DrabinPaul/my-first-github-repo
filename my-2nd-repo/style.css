@@ -1,0 +1,21 @@
+body{
+    background: #000;
+    min-height: 100vh;
+}
+.text{
+    background: gray;
+}
+h1{
+    text-align: center;
+    align-items: center;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+p{
+    padding: 10px 10px;
+    font-weight: bold;
+    
+}
