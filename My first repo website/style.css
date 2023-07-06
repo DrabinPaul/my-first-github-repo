@@ -64,3 +64,30 @@ button{
 button:hover{
     background: rgb(131, 7, 7);
 }
+
+.ab-text{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.about-container{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   flex-direction: row-reverse;
+}
+.about-img{
+    width: 300px;
+    margin-left: 30px;
+}
+.about-text h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.about-text p{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
