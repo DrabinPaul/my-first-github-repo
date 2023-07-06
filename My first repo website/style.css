@@ -91,3 +91,53 @@ button:hover{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.card{
+    height: 100vh;
+    background: rgb(20, 20, 20);
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    padding: 10px;
+}
+.box{
+    width: 250px;
+    height: 350px;
+    box-shadow: 4px 4px 10px gray;
+    background-color: rgb(15, 1, 1);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.card h1{
+    padding: 40px 5px;
+    color: white;
+}
+.icon{
+    width: 100px;
+}
+.box-btn{
+    margin-top: 20px;
+    padding: 10px 30px;
+    /* margin-bottom: 50px; */
+}
+.box-btn:hover{
+    background-color: gray;
+    color: rgb(15, 1, 1);
+}
+.box-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.box-para{
+    margin-top: 10px;
+}
+hr{
+    margin-bottom: 20px;
+    width: 600px;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+}
