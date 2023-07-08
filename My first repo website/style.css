@@ -104,7 +104,7 @@ button:hover{
 .box{
     width: 250px;
     height: 350px;
-    box-shadow: 4px 4px 10px gray;
+    box-shadow: 3px 3px 15px gray;
     background-color: rgb(15, 1, 1);
     color: white;
     text-align: center;
